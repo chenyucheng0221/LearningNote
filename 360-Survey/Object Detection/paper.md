@@ -4,17 +4,17 @@
 
 title|year|source|keyword|link
 -|-|-|-|-
-Object Detection on Panoramic Images Based on Deep Learning|2017|ICCAR||[paper](http://static.tongtianta.site/paper_pdf/dad93a48-5f79-11e9-af33-00163e08bb86.pdf)
-Real-Time Object Detection for 360-Degree Panoramic Image Using CNN|2017|ICVRV||[paper](https://sci-hub.se/10.1109/icvrv.2017.00013)
-Object Detection in Equirectangular Panorama|2018|ICPR||[paper](https://arxiv.org/pdf/1805.08009.pdf)
-3D Object Detection Algorithm for Panoramic Images With Multi-Scale Convolutional Neural Network|2019|IEEEAccess||[paper](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08913499.pdf)
-Object Detection in Curved Space for 360-Degree Camera|2019|ICASSP||[paper](https://sci-hub.se/10.1109/icassp.2019.8683093)
-Grid Based Spherical CNN for Object Detection from Panoramic Images|2019|Sensors||[paper](https://pdfs.semanticscholar.org/69ee/cdcdc183695087849b246942a1bd4f38d030.pdf?_ga=2.91932956.700321051.1649138034-1529344070.1647397271)
-Reprojection R-CNN: A Fast and Accurate Object Detector for 360  Images|2019|CVPR||[paper](https://arxiv.org/pdf/1907.11830.pdf)
-FisheyeDet: A Self-Study and Contour-Based Object Detector in Fisheye Images|2020|IEEE Access||[paper](https://ieeexplore.ieee.org/ielx7/6287639/8948470/09066935.pdf)
-Spherical Criteria for Fast and Accurate 360-degree Object Detection|2020|AAAI||[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6995/6849)
-Unbiased IoU for Spherical Image Object Detection|2021|CVPR||[paper](https://arxiv.org/pdf/2108.08029.pdf)
-Field-of-View IoU for Object Detection in 360  Images|2022|CVPR||[paper](https://arxiv.org/pdf/2202.03176.pdf)
+Object Detection on Panoramic Images Based on Deep Learning|2017|ICCAR|A region-based CNN|[paper](http://static.tongtianta.site/paper_pdf/dad93a48-5f79-11e9-af33-00163e08bb86.pdf)
+Real-Time Object Detection for 360-Degree Panoramic Image Using CNN|2017|ICVRV|A CNN-based detection framework with a post-processing fine-tune module|[paper](https://sci-hub.se/10.1109/icvrv.2017.00013)
+Object Detection in Equirectangular Panorama|2018|ICPR|multi-projection with YOLO|[paper](https://arxiv.org/pdf/1805.08009.pdf)
+3D Object Detection Algorithm for Panoramic Images With Multi-Scale Convolutional Neural Network|2019|IEEEAccess|multi-scale CNN, cycleGAN network and  an adversarial spatial transformer network|[paper](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08913499.pdf)
+Object Detection in Curved Space for 360-Degree Camera|2019|ICASSP|faster RCNN model based, multi-kernel layers|[paper](https://sci-hub.se/10.1109/icassp.2019.8683093)
+Grid Based Spherical CNN for Object Detection from Panoramic Images|2019|Sensors|grid-based spherical CNN,grid map, RPN|[paper](https://pdfs.semanticscholar.org/69ee/cdcdc183695087849b246942a1bd4f38d030.pdf?_ga=2.91932956.700321051.1649138034-1529344070.1647397271)
+Reprojection R-CNN: A Fast and Accurate Object Detector for 360  Images|2019|CVPR|two-stage detector,combining ERP and perspective projection, a distortion-aware spherical region proposal network|[paper](https://arxiv.org/pdf/1907.11830.pdf)
+FisheyeDet: A Self-Study and Contour-Based Object Detector in Fisheye Images|2020|IEEE Access|self-study, contour-based,large FoV|[paper](https://ieeexplore.ieee.org/ielx7/6287639/8948470/09066935.pdf)
+Spherical Criteria for Fast and Accurate 360-degree Object Detection|2020|AAAI|two-stage detector, sphIoU, sphBB|[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6995/6849)
+Unbiased IoU for Spherical Image Object Detection|2021|CVPR|unbiased Bounding box, unbiased IoU|[paper](https://arxiv.org/pdf/2108.08029.pdf)
+Field-of-View IoU for Object Detection in 360  Images|2022|CVPR|computing intersection-over-union of two Field-of-View bounding boxes, 360 augmenttaion|[paper](https://arxiv.org/pdf/2202.03176.pdf)
  
 - onmidirectional videos
 
@@ -33,4 +33,4 @@ To migate the distortion from the projection of ODIs, here are two main challeng
 
 ![image](https://github.com/chenyucheng0221/LearningNote/blob/main/360-Survey/Images/360_images.png)
 
-(2) Some papers illustrate that the input images of their network are fisheye images, however, fisheye cameras may have different FoV, can we regard the fisheye images as ODIs? like this paper [link](https://arxiv.org/pdf/2003.03759.pdf) , I am not sure if it belongs to object detection in ODIs.
+(2) Some papers illustrate that the input images of their network are fisheye images, however, fisheye cameras may have different FoV, can we regard the fisheye images as ODIs? like papers [paper1](https://arxiv.org/pdf/2003.03759.pdf) and [paper2](https://ieeexplore.ieee.org/ielx7/6287639/8948470/09066935.pdf) , I am not sure if they belong to object detection in ODIs.
