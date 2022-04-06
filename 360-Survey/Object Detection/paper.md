@@ -4,8 +4,6 @@
 
 title|year|source|keyword|link
 -|-|-|-|-
-Deformable Parts Model for People Detection in Heavy Machines Applications|2014|ICARCV||[paper](https://hal.archives-ouvertes.fr/hal-01098786/file/P0394.pdf)
-A Blind-Zone Detection Method Using a Rear-Mounted Fisheye Camera With Combination of Vehicle Detection Methods|2016|IEEE||[paper](https://sci-hub.se/10.1109/tits.2015.2467357)
 Object Detection on Panoramic Images Based on Deep Learning|2017|ICCAR|A region-based CNN|[paper](http://static.tongtianta.site/paper_pdf/dad93a48-5f79-11e9-af33-00163e08bb86.pdf)
 Real-Time Object Detection for 360-Degree Panoramic Image Using CNN|2017|ICVRV|A CNN-based detection framework with a post-processing fine-tune module|[paper](https://sci-hub.se/10.1109/icvrv.2017.00013)
 Object Detection in Equirectangular Panorama|2018|ICPR|multi-projection with YOLO|[paper](https://arxiv.org/pdf/1805.08009.pdf)
