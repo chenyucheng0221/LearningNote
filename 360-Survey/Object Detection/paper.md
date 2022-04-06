@@ -28,6 +28,8 @@ To migate the distortion from the projection of ODIs, here are two main challeng
 
 
 #### Question
-(1) In some papers, I found there are several projection ways, like perspective projection, spherical projection, cylindrical projection and cubic projection. Are all the 360 images stored as ERP format originally?
+(1) In some papers, I found there are several projection ways, like perspective projection, spherical projection, cylindrical projection and cubic projection. Are all the 360 images stored as ERP format originally? Or they can store images like the following picture? 
+
+<img src="https://github.com/chenyucheng0221/LearningNote/Images/360_images.jpg" width="70%" height="70%">
 
 (2) Some papers illustrate that the input images of their network are fisheye images, however, fisheye cameras may have different FoV, can we regard the fisheye images as ODIs? like this paper [link](https://arxiv.org/pdf/2003.03759.pdf) , I am not sure if it belongs to object detection in ODIs.
