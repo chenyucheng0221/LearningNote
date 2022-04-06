@@ -1,4 +1,4 @@
-### Paper List
+## Paper List
 
 - onmidirectional images
 
@@ -24,11 +24,11 @@ ASOD60K: An Audio-Induced Salient Object Detection Dataset for Panoramic Videos|
 ongoing||||
 
 
-### Conclusion
+## Conclusion
 To migate the distortion from the projection of ODIs, here are two main challenges: (i) the traditional convolutional layers are not applicable as ODIs do not have a regular planar grid structure. (ii) the evaluation criteria adopted in planar object detection is not suitable because axis-aligned rectangles can not tightly bound objects in spherical images. So far most methods are focused on the first challenge, the latter is comparatively limited(In the paper list, the last three items are focused on this).
 
 
-### Question
+## Question
 (1) In some papers, I found there are several projection ways, like perspective projection, spherical projection, cylindrical projection and cubic projection. Are all the 360 images stored as ERP format originally? Or they can store images like the following picture? 
 
 ![image](https://github.com/chenyucheng0221/LearningNote/blob/main/360-Survey/Images/360_images.png)
