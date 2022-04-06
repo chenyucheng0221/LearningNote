@@ -6,6 +6,7 @@ title|year|source|keyword|link
 -|-|-|-|-
 Object Detection on Panoramic Images Based on Deep Learning|2017|ICCAR||[paper](http://static.tongtianta.site/paper_pdf/dad93a48-5f79-11e9-af33-00163e08bb86.pdf)
 Real-Time Object Detection for 360-Degree Panoramic Image Using CNN|2017|ICVRV||[paper](https://sci-hub.se/10.1109/icvrv.2017.00013)
+Object Detection in Equirectangular Panorama|2018|ICPR||[paper](https://arxiv.org/pdf/1805.08009.pdf)
 3D Object Detection Algorithm for Panoramic Images With Multi-Scale Convolutional Neural Network|2019|IEEEAccess||[paper](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08913499.pdf)
 Object Detection in Curved Space for 360-Degree Camera|2019|ICASSP||[paper](https://sci-hub.se/10.1109/icassp.2019.8683093)
 Grid Based Spherical CNN for Object Detection from Panoramic Images|2019|Sensors||[paper](https://pdfs.semanticscholar.org/69ee/cdcdc183695087849b246942a1bd4f38d030.pdf?_ga=2.91932956.700321051.1649138034-1529344070.1647397271)
