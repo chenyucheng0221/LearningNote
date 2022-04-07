@@ -10,7 +10,6 @@ Object Detection in Equirectangular Panorama|2018|ICPR|multi-projection with YOL
 Object Detection in Curved Space for 360-Degree Camera|2019|ICASSP|faster RCNN model based, multi-kernel layers|[paper](https://sci-hub.se/10.1109/icassp.2019.8683093)
 OmniDRL: Robust Pedestrian Detection using Deep Reinforcement Learning on Omnidirectional Cameras|2019|ICRA||[paper](https://arxiv.org/pdf/1903.00676.pdf)
 Grid Based Spherical CNN for Object Detection from Panoramic Images|2019|Sensors|grid-based spherical CNN,grid map, RPN|[paper](https://pdfs.semanticscholar.org/69ee/cdcdc183695087849b246942a1bd4f38d030.pdf?_ga=2.91932956.700321051.1649138034-1529344070.1647397271)
-Reprojection R-CNN: A Fast and Accurate Object Detector for 360  Images|2019|CVPR|two-stage detector,combining ERP and perspective projection, a distortion-aware spherical region proposal network|[paper](https://arxiv.org/pdf/1907.11830.pdf)
 Spherical Criteria for Fast and Accurate 360-degree Object Detection|2020|AAAI|two-stage detector, sphIoU, sphBB|[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6995/6849)
 Unbiased IoU for Spherical Image Object Detection|2021|CVPR|unbiased Bounding box, unbiased IoU|[paper](https://arxiv.org/pdf/2108.08029.pdf)
 Field-of-View IoU for Object Detection in 360  Images|2022|CVPR|computing intersection-over-union of two Field-of-View bounding boxes, 360 augmenttaion|[paper](https://arxiv.org/pdf/2202.03176.pdf)
