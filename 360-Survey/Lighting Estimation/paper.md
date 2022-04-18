@@ -18,6 +18,12 @@
 - [Conclusion](#conclusion)
 
 #### 360 images
+- [All-Weather Deep Outdoor Lighting Estimation](#all-weather-deep-outdoor-lighting-estimation)
+- [Deep Lighting Environment Map Estimation from Spherical Panoramas](#deep-lighting-environment-map-estimation-from-spherical-panoramas)
+- [Deep Sky Modeling for Single Image Outdoor Lighting Estimation](#deep-sky-modeling-for-single-image-outdoor-lighting-estimation)
+- [Learning High Dynamic Range from Outdoor Panoramas](#learning-high-dynamic-range-from-outdoor-panoramas)
+- [Learning Scene Illumination by Pairwise Photos from Rear and Front Mobile Cameras](#learning-scene-illumination-by-pairwise-photos-from-rear-and-front-mobils-cameras)
+- [Lighting, Reflectance and Geometry Estimation from 360° Panoramic Stereo](#lighting-reflectance-and-Geometry-Estimation-from-360°-Panoramic-Stereo)
 
 ****
 ### Learning to predict indoor illumination from a single image
