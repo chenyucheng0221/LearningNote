@@ -1,7 +1,7 @@
 ## Summary
-- [360 SR Method](#360-SR-Method)
-- [High-frequency 2D SR Method](#High-frequecny-2D-SR-Method)
-- [360 Image Processing](#360-Image-Processing)
+- [360 SR Method](#360-sr-method)
+- [High-frequency 2D SR Method](#high-frequecny-2d-sr-method)
+- [360 Image Processing](#360-image-processing)
 
 ## Paper List
 ### 360 SR Method
