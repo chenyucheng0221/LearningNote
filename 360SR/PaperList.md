@@ -16,3 +16,4 @@
 - Two-Way Guided Super-Resolution Reconstruction Network Based on Gradient Prior, ICIP 2021
 - DSRGAN: Detail Prior-Assisted Perceptual Single Image Super-Resolution via Generative Adversarial Networks, ArXiv
 - Enhanced Non-Local Total Variation Model and Multi-Directional Feature Prediction Prior for Single Image Super Resolution, TIP 2019
+- Gradient Profile Prior and Its Applications in Image Super-Resolution and Enhancement, TIP 2011
