@@ -14,6 +14,7 @@
 - Structure-Preserving Super Resolution with Gradient Guidance, CVPR 2020 [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Structure-Preserving_Super_Resolution_With_Gradient_Guidance_CVPR_2020_paper.pdf)]
 - Structure-Preserving Image Super-resolution viaContextualized Multi-task Learning, IEEE Transaction on MultiMedia
 - Two-Way Guided Super-Resolution Reconstruction Network Based on Gradient Prior, ICIP 2021
-- DSRGAN: Detail Prior-Assisted Perceptual Single Image Super-Resolution via Generative Adversarial Networks, ArXiv
+- DSRGAN: Detail Prior-Assisted Perceptual Single Image Super-Resolution via Generative Adversarial Networks, ArXiv 2021
 - Enhanced Non-Local Total Variation Model and Multi-Directional Feature Prediction Prior for Single Image Super Resolution, TIP 2019
-- Gradient Profile Prior and Its Applications in Image Super-Resolution and Enhancement, TIP 2011
+- Structure-Preserving Image Super-Resolution, TPMAI 2021
+- Gradient Variance Loss for Structure-Enhanced Image Super-Resolution, ArXiv 2022
