@@ -18,3 +18,6 @@
 - Enhanced Non-Local Total Variation Model and Multi-Directional Feature Prediction Prior for Single Image Super Resolution, TIP 2019
 - Structure-Preserving Image Super-Resolution, TPMAI 2021
 - Gradient Variance Loss for Structure-Enhanced Image Super-Resolution, ArXiv 2022
+- Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution, ICCV 2021
+- Guided Frequency Separation Network for Real-World Super-Resolution, CVPR 2020
+- Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks, ECCV 2020
